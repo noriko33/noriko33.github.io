@@ -7,7 +7,7 @@
 <body>
 <h2>Oracle Advance Analytics ソリューション</h2>
 
-<table width="80%" border="1">
+<table width="80%" border="0" >
   <tbody>
     <tr>
       <td width="33%"><center>
@@ -16,11 +16,15 @@
       </a></center></td>
       <td width = "33%"><center>
       <u><strong>フルーツの併売分析</strong></u><br>
-      <img src="" alt="fruit"/></center>
-      </td>
+      <a href="https://github.com/oracle4engineer/advanced-analytics/tree/master/market_basket" target="_blank">
+      <img src="fruit.jpg" height="110" alt="fruit"/>
+      </a>
+      </center></td>
       <td width = "34%"><center>
-      クラスタリング<br>
-      &nbsp;
+      <u><strong>クラスタリング</strong></u><strong></strong><br>
+      <a href="" target="_blank">
+      <img src="" height="110" alt=""/>
+      </a>
       </center></td>
     </tr>
     <tr>
