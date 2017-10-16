@@ -15,7 +15,7 @@
       </a></center></td>
       <td width = "33%"><center>
       <u><strong>フルーツの併売分析</strong></u><br>
-      <a href="https://github.com/oracle4engineer/advanced-analytics/tree/master/market_basket" target="_blank">
+      <a href="https://github.com/oracle4engineer/advanced-analytics/wiki/%E4%BD%B5%E5%A3%B2%E5%88%86%E6%9E%90" target="_blank">
       <img src="fruit.jpg" height="110" alt="fruit"/>
       </a>
       </center></td>
