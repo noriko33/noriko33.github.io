@@ -20,7 +20,7 @@
       </a>
       </center></td>
       <td width = "34%"><center>
-      <u><strong>クラスタリング</strong></u><strong></strong><br>
+      <u><strong>保険顧客の購買予測</strong></u><strong></strong><br>
       <a href="" target="_blank">
       <img src="" height="110" alt=""/>
       </a>
@@ -28,11 +28,11 @@
     </tr>
     <tr>
       <td><center>
-          <strong><u>XXXXデータ解析</u></strong>&nbsp;<br>
+          <strong><u>ビールの需要予測</u></strong>&nbsp;<br>
       [解説] [スクリプト]
       </center>
       </td>
-      <td><center>カード会員分析&nbsp;</center><br>
+      <td><center>XXXXXX&nbsp;</center><br>
       </td>
       <td>XXXXXXX&nbsp;</td>
     </tr>
