@@ -22,7 +22,7 @@
       <td width = "34%"><center>
       <u><strong>保険顧客の購買予測</strong></u><strong></strong><br>
       <a href="" target="_blank">
-      <img src="" height="110" alt=""/>
+      <img src="classification2.jpg" height="110" alt="Classification"/>
       </a>
       </center></td>
     </tr>
