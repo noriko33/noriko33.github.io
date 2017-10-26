@@ -48,7 +48,5 @@
 </p>
 <p><a href="https://www.facebook.com/OracleJapanBI/"><img src="FB_logo.png" width="29" height="29" alt=""/></a>　<strong>Oracle Business Analytics Japan</strong></p>
   <br>
-</p>
-
 </body>
 </html>
