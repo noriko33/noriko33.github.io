@@ -21,18 +21,21 @@
       </center></td>
       <td width = "34%"><center>
       <u><strong>保険顧客の購買予測</strong></u><strong></strong><br>
-      <a href="" target="_blank">
-      <img src="classification2.jpg" height="110" alt="Classification"/>
+      <a href="https://github.com/noriko33/test00/wiki/%E5%88%86%E9%A1%9E-(Classification)" target="_blank">
+      <img src="classification_top.JPG" height="120" alt="Classification"/>
       </a>
       </center></td>
     </tr>
     <tr>
+      <td><center>
+        <strong><u>顧客の不足情報を補足</u></strong>&nbsp;<br>
+        準備中
+        </center>
+      </td>
       <td><center>
           <strong><u>ビールの需要予測</u></strong>&nbsp;<br>
-      [解説] [スクリプト]
-      </center>
-      </td>
-      <td><center>XXXXXX&nbsp;</center><br>
+        準備中
+      </center>
       </td>
       <td>XXXXXXX&nbsp;</td>
     </tr>
@@ -43,6 +46,9 @@
 <p>※ 製品の概要については<a href="https://github.com/oracle4engineer/advanced-analytics/wiki" title="Oracleの高度な機械学習" target="_blank">こちら</a>から
   <br>
 </p>
-<p>&nbsp;</p>
+<p><a href="https://www.facebook.com/OracleJapanBI/"><img src="FB_logo.png" width="29" height="29" alt=""/></a>　<strong>Oracle Business Analytics Japan</strong></p>
+  <br>
+</p>
+
 </body>
 </html>
