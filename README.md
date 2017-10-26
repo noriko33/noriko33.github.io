@@ -27,7 +27,9 @@
       </center></td>
     </tr>
     <tr>
-      <td><center><u><strong>顧客の不足情報を補足&nbsp;</strong></u></center><br>
+      <td><center>
+        <strong><u>顧客の不足情報を補足</u></strong>&nbsp;<br>
+        </center>
       </td>
       <td><center>
           <strong><u>ビールの需要予測</u></strong>&nbsp;<br>
