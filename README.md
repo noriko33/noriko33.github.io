@@ -29,12 +29,13 @@
     <tr>
       <td><center>
         <strong><u>顧客の不足情報を補足</u></strong>&nbsp;<br>
-        </center>
+        準備中
+        </center>
       </td>
       <td><center>
           <strong><u>ビールの需要予測</u></strong>&nbsp;<br>
-      [解説] [スクリプト]
-      </center>
+        準備中
+      </center>
       </td>
       <td>XXXXXXX&nbsp;</td>
     </tr>
